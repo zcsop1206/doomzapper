@@ -1,3 +1,3 @@
-#DoomZapper
+# DoomZapper
 
-##Wearable that zaps me if I scroll too much
+## Wearable that zaps me if I scroll too much
